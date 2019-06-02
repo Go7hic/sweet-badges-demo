@@ -19,6 +19,6 @@
   "homepage": "https://github.com/dyygtfx/sweet-badges-demo#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mochai": "^0.2.5"
+    "mocha": "^6.1.4"
   }
 }
